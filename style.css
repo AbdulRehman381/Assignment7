@@ -1,0 +1,35 @@
+
+
+.main{
+    border: 2px solid rosybrown;
+    width: 200px;
+    margin: 0 auto;
+    background-color:whitesmoke ;
+}
+#cal{
+    background-color:grey;
+    color: rgb(67, 70, 73);
+}
+.input{
+    background-color: lightgray;
+    width: 96%;
+    color: white;
+}
+.cbtn{
+    width: 100%;
+    background-color: lightslategrey;
+    margin-top: 2px;
+    border: none;
+}
+.btn{
+    background-color:lightskyblue;
+    width: 45px;
+    margin: 1px;
+    border: none;
+}
+#color{
+    background-color: gray;
+}
+#colr{
+    background-color: rgb(67, 70, 73);
+}
